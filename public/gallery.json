@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "event_name": "Dreamy Wedding",
+    "img": "https://i.ibb.co/HGNDKZg/Screenshot-2023-11-23-205037.png",
+    "description": "Celebrate the union of love in a picturesque setting with an elegant wedding ceremony and reception.No matter the size or location, Dreamy Weddings brings dream Caribbean weddings to life, and one of our Caribbean wedding packages is guaranteed to be perfect for you. Many brides desire to have a traditional church wedding in their hometown, but some also want to take the scenery and other accommodations to the next level with a tropical island wedding, which is why we offer luxurious amenities and romantic detailing that truly make our Caribbean weddings unforgettable.",
+    "package_details": {
+      "standard": "Wedding ceremony and standard reception.",
+      "premium": "VIP sThis package is ideal for bride and groom  who is travelling on a cruise line which will dock at any of our 13 destination.This Couple can be travelling allone or with a group. "
+     
+
+    }
+  },
+  {
+    "id": 2,
+    "event_name": "Joyous Birthday Party",
+    "img": "https://i.ibb.co/42Z5jQp/Screenshot-2023-11-24-122846.png",
+    "description": "Throw a vibrant birthday celebration filled with laughter, games, and delicious treats.If you are going to have a party, do it with a bang! We have a variety of party accessories and great entertainment to make your next party special!",
+    "package_details": {
+      "standard": "Birthday cake and party games",
+      "premium": "Themed decorations, entertainment, and personalized favors,Fun Entertainment, Live performances (mascot or live person)Cakes, Cupcakes, & Sweets - and More!"
+    }
+  },
+  {
+    "id": 3,
+    "event_name": "Silver Anniversary",
+    "img": "https://i.ibb.co/XVFdTyt/Screenshot-2023-11-24-223028.png",
+    "description": "Mark 25 years of love and commitment with a glamorous silver anniversary celebration.",
+    "package_details": {
+      "standard": "Anniversary toast and dinner",
+      "premium": "Silver-themed decor, live entertainment, and photo booth"
+    }
+  },
+  {
+    "id": 4,
+    "event_name": "Romantic Proposal",
+    "img": "https://i.ibb.co/rpZtghX/Screenshot-2023-11-24-222802.png",
+    "description": "Create a memorable and intimate moment for the perfect marriage proposal.",
+    "package_details": {
+      "standard": "Private venue setup, photographer, and champagne",
+      "premium": "Proposal package plus engagement celebration"
+    }
+  },
+  {
+    "id": 5,
+    "event_name": "Enchanting Engagement Party",
+    "img": "https://i.ibb.co/M9wqQrS/Screenshot-2023-11-24-122343.png",
+    "description": "Celebrate the beginning of a lifetime together with an enchanting engagement party.",
+    "package_details": {
+      "standard": "Engagement party venue and basic decorations",
+      "premium": "Themed decor, live music, and premium catering"
+    }
+  },
+  {
+    "id": 6,
+    "event_name": "Memorable Retirement Party",
+    "img": "https://i.ibb.co/2W17jxC/Screenshot-2023-11-24-221849.png",
+    "description": "Bid farewell to a colleague with a memorable retirement party filled with laughter and nostalgia.",
+    "package_details": {
+      "standard": "Retirement party venue and simple decorations",
+      "premium": "Themed decor, speeches, and entertainment"
+    }
+  },
+  {
+    "id": 7,
+    "event_name": "Adorable Baby Shower",
+    "img": "https://i.ibb.co/DW4jjdj/Screenshot-2023-11-24-222327.png",
+    "description": "Celebrate the upcoming arrival of a baby with a heartwarming and adorable baby shower.",
+    "package_details": {
+      "standard": "Baby shower venue and basic decorations",
+      "premium": "Themed decor, games, and gourmet catering"
+    }
+  },
+  {
+    "id": 8,
+    "event_name": "Golden Anniversary",
+    "img": "https://i.ibb.co/8KwTQwX/Screenshot-2023-11-24-125247.png",
+    "description": "Celebrate 50 years of love and companionship with a grand golden anniversary party.",
+    "package_details": {
+      "standard": "Anniversary toast and dinner",
+      "premium": "Golden-themed decor, live entertainment, and photo booth"
+    }
+  }
+]
